@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning MERN Stack 
 <!-- - 💞️ I’m looking to collaborate on ... -->
 - 📫 Reach me:
-- email: benedictojohnbenedict 
-- facebook: JB Benedicto 
+- email: benedictojohnbenedict@gmail.com
+- facebook: JB Benedicto
 - discord: Benedict#4687
 
 <!---
