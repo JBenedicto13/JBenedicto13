@@ -9,7 +9,7 @@ I am passionate about building for the web and has an eye for good looking desig
 
 ## 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,php,mysql,cpp,java,springboot,git,vscode,photoshop,illustrator,figma&theme=light)
+![skills](https://skillicons.dev/icons?i=html,css,js,mongodb,express,react,nodejs,php,mysql,cpp,java,spring,git,vscode,photoshop,illustrator,figma&theme=light)
 
 #
 
